@@ -1,0 +1,7 @@
+This is a simple library that contains a functions and classes meant to
+simplify different aspects of the construction of image processing algorithms.
+
+These algorithms are in no way fast or bug free (they could crash on you at a
+moments notice :))
+
+This is licensed under the BSD license.
